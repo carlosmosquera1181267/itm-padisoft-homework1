@@ -7,6 +7,7 @@ estén trabajando en la especialización y utilizando buenas prácticas de dise�
 
 ## 📁 Estructura del Proyecto
 
+```text
 homework1-task4/
 ├── build.gradle.kts         # Script de construcción Gradle en Kotlin DSL
 ├── settings.gradle.kts      # Nombre y configuración del proyecto

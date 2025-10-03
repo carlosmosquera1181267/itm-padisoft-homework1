@@ -29,6 +29,7 @@ En esta seccion se muestra como ase asigna a una orden un tecnico basado en sus 
 ### Listar las Ordenes creadas
 En la ultima seccion del proceso se imprimen las ordenes creadas mostrando los datos del servicio solicitado y el tecnico asignado.
 
+## Diagrama
 
 ```mermaid
 classDiagram
