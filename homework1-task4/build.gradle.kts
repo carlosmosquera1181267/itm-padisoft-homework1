@@ -1,5 +1,6 @@
 plugins {
     id("java")
+    application
 }
 
 group = "co.edu.itm.padisoft.homework1-task4"
@@ -17,4 +18,8 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
+}
+
+application {
+    mainClass.set("co.edu.itm.padisoft.homework1.task4.Main")
 }
